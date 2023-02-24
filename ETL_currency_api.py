@@ -59,7 +59,7 @@ def ETL_currency_api():
    
         payload = {}
         headers= {
-              "apikey": "D3DSbwZj9BZYxy8feOVJZp9WtNrQLcNa"
+              "apikey": "" #input api key here
             }
     
         #api call    
